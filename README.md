@@ -18,39 +18,39 @@ experiencia práctica. Haz clic en los enlaces para comenzar.
 
 ## Capítulo 1. Arquitectura y Configuración del Servidor
 
-### [Práctica 1.1. Instalación del Entorno PostgreSQL sobre Debian 13 (MV-Docker)](Capitulo01/Practica1-1.md)
+### [Práctica 1.1. Instalación del Entorno PostgreSQL sobre Debian 13 (MV-Docker)](Capitulo01/Practica1-1/README.md)
 
--   **Descripción**:
+-   **Descripción**: Construir el entorno Debian 13 con PostgreSQL 18 en Docker, verificar autenticación y comprobar persistencia de datos.
 
 -   ⏱️ **Duración estimada**: 45 min
 
-### [Práctica 1.2. Explorando la Arquitectura Interna de PostgreSQL](Capitulo01/Practica1-2.md)
+### [Práctica 1.2. Explorando la Arquitectura Interna de PostgreSQL](Capitulo01/Practica1-2/README.md)
 
--   **Descripción**:
-
--   ⏱️ **Duración estimada**: 35 min
-
-### [Práctica 1.3. Análisis de Configuración y Memoria](Capitulo01/Practica1-3.md)
-
--   **Descripción**:
+-   **Descripción**: Identificar procesos del servidor, relacionar conexiones con backends y observar actividad y mantenimiento.
 
 -   ⏱️ **Duración estimada**: 35 min
 
-### [Práctica 1.4. Explorando PGDATA y WAL](Capitulo01/Practica1-4.md)
+### [Práctica 1.3. Análisis de Configuración y Memoria](Capitulo01/Practica1-3/README.md)
 
--   **Descripción**:
+-   **Descripción**: Comparar ordenaciones en disco y memoria, distinguir parámetros y aplicar cambios por recarga y reinicio.
+
+-   ⏱️ **Duración estimada**: 35 min
+
+### [Práctica 1.4. Explorando PGDATA y WAL](Capitulo01/Practica1-4/README.md)
+
+-   **Descripción**: Localizar archivos internos, medir generación de WAL y observar FSM y Visibility Map.
 
 -   ⏱️ **Duración estimada**: 30 min
 
-### [Práctica 1.5. Diseño de una Base de Datos Empresarial](Capitulo01/Practica1-5.md)
+### [Práctica 1.5. Diseño de una Base de Datos Empresarial](Capitulo01/Practica1-5/README.md)
 
--   **Descripción**:
+-   **Descripción**: Implementar un modelo relacional empresarial, validar restricciones y preparar tablespaces con volúmenes persistentes.
 
 -   ⏱️ **Duración estimada**: 45 min
 
-### [Práctica 1.6. Grandes Volúmenes de Información](Capitulo01/Practica1-6.md)
+### [Práctica 1.6. Grandes Volúmenes de Información](Capitulo01/Practica1-6/README.md)
 
--   **Descripción**:
+-   **Descripción**: Generar un millón de filas, comparar poda de particiones y evaluar índices mediante planes y mediciones reales.
 
 -   ⏱️ **Duración estimada**: 30 min
 
