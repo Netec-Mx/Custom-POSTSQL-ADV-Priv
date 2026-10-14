@@ -54,7 +54,7 @@ experiencia práctica. Haz clic en los enlaces para comenzar.
 
 -   ⏱️ **Duración estimada**: 30 min
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 
 ## 📬 **Contacto y más información**
