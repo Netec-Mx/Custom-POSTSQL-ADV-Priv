@@ -14,7 +14,7 @@ conocimientos al siguiente nivel!
 Cada uno de estos laboratorios está diseñado para ofrecerte una
 experiencia práctica. Haz clic en los enlaces para comenzar.
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 ## Capítulo 1. Arquitectura y Configuración del Servidor
 
