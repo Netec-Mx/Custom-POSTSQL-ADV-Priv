@@ -126,6 +126,55 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
   - ⏱️ **Duración estimada**: 75 min.
 
+### Capítulo 4. WAL, replicación y alta disponibilidad de PostgreSQL
+
+#### [Práctica 4.1. Archivado WAL y durabilidad](Capitulo04/Practica4-1/README.md)
+
+  - **Descripción**: Comprobar el funcionamiento del WAL y diseñar un archivado seguro.
+
+  - ⏱️ **Duración estimada**: 60 min.
+
+#### [Práctica 4.2. Replicación física con streaming](Capitulo04/Practica4-2/README.md)
+
+  - **Descripción**: Reconocer el primario y preparar una réplica física sin alterar el clúster del curso.
+
+  - ⏱️ **Duración estimada**: 60 min.
+
+#### [Práctica 4.3. Replicación lógica](Capitulo04/Practica4-3/README.md)
+
+  - **Descripción**: Definir una publicación lógica de datos comerciales y evaluar su alcance.
+
+  - ⏱️ **Duración estimada**: 60 min.
+
+#### [Práctica 4.4. Recuperación a un punto en el tiempo (PITR)](Capitulo04/Practica4-4/README.md)
+
+  - **Descripción**: Planificar una recuperación histórica a partir de un respaldo base y WAL archivados.
+
+  - ⏱️ **Duración estimada**: 60 min.
+
+#### [Práctica 4.5. Patroni y prevención de split-brain](Capitulo04/Practica4-5/README.md)
+
+  - **Descripción**: Comprender el liderazgo, el quórum y la promoción segura de un standby.
+
+  - ⏱️ **Duración estimada**: 60 min.
+
+#### [Práctica 4.6. Configuración e implementación de PgBouncer](Capitulo04/Practica4-6/README.md)
+
+  - **Descripción**: Evaluar cómo el pooling reduce la presión de conexiones de las aplicaciones.
+
+  - ⏱️ **Duración estimada**: 60 min.
+
+#### [Práctica 4.7. HAProxy: enrutamiento por rol](Capitulo04/Practica4-7/README.md)
+
+  - **Descripción**: Diseñar un endpoint estable para escrituras y verificar el rol del destino.
+
+  - ⏱️ **Duración estimada**: 60 min.
+
+#### [Práctica 4.8. Arquitectura empresarial de alta disponibilidad](Capitulo04/Practica4-8/README.md)
+
+  - **Descripción**: Integrar replicación, Patroni, HAProxy, PgBouncer y respaldos en un simulacro.
+
+  - ⏱️ **Duración estimada**: 60 min.
 ---
 
 ## 📬 **Contacto y más información**
