@@ -175,6 +175,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
   - **Descripción**: Integrar replicación, Patroni, HAProxy, PgBouncer y respaldos en un simulacro.
 
   - ⏱️ **Duración estimada**: 60 min.
+
 ---
 
 ## 📬 **Contacto y más información**
