@@ -10,6 +10,7 @@
 - **Resumen:** selección de medidas basada en evidencia reproducible.
 
 ## Laboratorios
+
 | Práctica | Objetivo resumido | Archivo |
 |---|---|---|
 | 3.1 Monitoreo de Actividad y Rendimiento de Disco | Medir lecturas físicas y aciertos de caché de una tabla mediante estadísticas y `EXPLAIN (ANALYZE, BUFFERS)`. | [README](Practica3-1/README.md) |

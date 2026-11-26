@@ -13,6 +13,7 @@ Analizar la durabilidad, replicación, recuperación y continuidad operativa de 
 - No se sustituye `curso` por `store`: el material disponible utiliza `curso` y el esquema `empresa`.
 
 ## Laboratorios
+
 | Práctica | Tema | Guía |
 |---|---|---|
 | 4.1 | Archivado WAL y durabilidad | [README](Practica4-1/README.md) |
